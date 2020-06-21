@@ -57,7 +57,7 @@ Regex to filter forward zone entries
 **sendMail**<br>
 *true*: Sends an e-mail with input, output and log according to the settings below<br>
 *false*: No e-mail gets sent<br>
-This is especially useful if the script is run by a task scheduler
+This is especially useful if the script is executed by a task scheduler
 
 **From**
 e-mail sender address
