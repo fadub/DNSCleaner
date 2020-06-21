@@ -50,11 +50,11 @@ All DNS zones with their full names that should be checked. At least one forward
 **forwardZoneFilter**
 Regex to filter forward zone entries
 
-**queryDNS**
+**queryDNS**<br>
 *true*: Query DNS and generate a new input file<br>
 *false*: Search for an existing input file
 
-**sendMail**
+**sendMail**<br>
 *true*: Sends an e-mail with input, output and log according to the settings below<br>
 *false*: No e-mail gets sent<br>
 This is especially useful if the script is run by a task scheduler
