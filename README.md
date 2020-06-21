@@ -85,6 +85,6 @@ e-mail username and password of the sending account
 **Right:** Process explanation (in german)
 
 <p float="left">
-	<img src="readme-img/DNSCleaner-logic.png" width="40%">
-	<img src="readme-img/DNSCleaner-description.png" width="40%">
+	<img src="readme-img/DNSCleaner-logic.jpg" width="75%">
+	<img src="readme-img/DNSCleaner-description.jpg" width="75%">
 </p>
